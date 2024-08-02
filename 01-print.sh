@@ -2,10 +2,11 @@
 
 # Red
 # Green
-# Blue
 # Yellow
-# Orange
+# Blue
 # Magenta
+# Orange
+
 
 # echo -e "\e[31mCodeMsg\e[0m"
 
