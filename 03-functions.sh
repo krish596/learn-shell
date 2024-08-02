@@ -1,8 +1,6 @@
-function foo() {
-  devops is a training
-  welcome to devops
-  this is a scripting language
-
+greeting() {
+  echo hello, good morning
+  echo welcome to devops
 }
 
-function()
+greeting
