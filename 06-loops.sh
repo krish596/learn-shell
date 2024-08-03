@@ -7,3 +7,10 @@ while [ $a -gt 0 ]; do
   a=$((a-1))
 
 done
+
+# for loop
+
+for comp in frontend,catalogue,shipping; do
+  echo installing $comp
+
+done
