@@ -17,4 +17,11 @@ inner() {
 
 inner
 
-echo exit status -
+input() {
+  echo first argument - $1
+  echo second argument - $2
+  echo number of arguments - $#
+  echo all  arguments - $*
+}
+
+input abc 1234
