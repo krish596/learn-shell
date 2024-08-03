@@ -10,7 +10,7 @@ done
 
 # for loop
 
-for comp in frontend,catalogue,shipping; do
-  echo installing $comp
+for comp in frontend,catalogue,shipping and mongodb; do
+  echo installing components in $comp
 
 done
