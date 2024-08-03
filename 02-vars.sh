@@ -9,3 +9,5 @@ echo Today date is $DATE
 # Arithemetic Substitution
 
 Sum=$((20+2))
+
+echo sum is $Sum
