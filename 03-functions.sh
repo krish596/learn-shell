@@ -6,4 +6,4 @@ greeting() {
 
 greeting
 
-echo exit status - $1
+echo exit status -
