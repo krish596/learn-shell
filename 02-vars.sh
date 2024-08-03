@@ -11,3 +11,8 @@ echo Today date is $DATE
 Sum=$((20+2))
 
 echo sum is $Sum
+
+# Access environment variables
+echo username - $USER
+echo Env var abc - $abc
+
