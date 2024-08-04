@@ -11,3 +11,14 @@ sed editor
     words 
 
 sed -i  ---- its really changed using this one
+
+List Of Topics
+
+1. comments
+2. prints
+3. variables
+4. functions
+5. conditions
+6. loops
+7. exit status & redirectors
+8. 
