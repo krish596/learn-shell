@@ -21,4 +21,8 @@ List Of Topics
 5. conditions
 6. loops
 7. exit status & redirectors
-8. 
+
+env.pass = sh (command)
+
+sh 'echo $pass' <- shell
+sh "echo $pass" <- Jenkins
